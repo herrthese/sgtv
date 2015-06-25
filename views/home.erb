@@ -1,0 +1,12 @@
+<%= erb :_header %>
+  <div class="container-fluid">
+      <div class="row">
+          <div class="col-xs-6 col-sm-4">&nbsp;</div>
+          <div class="col-xs-6 col-sm-4">
+              <h1>Weather in <%= @current_weather['name'] %></h1>
+              <p><%= @current_weather.to_s %></p>
+          </div>
+          <div class="col-xs-6 col-sm-4">&nbsp;</div>
+      </div>
+  </div>
+<%= erb :_footer %>

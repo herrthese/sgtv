@@ -1,0 +1,46 @@
+{"coord"=>{"lon"=>10, "lat"=>53.55},
+ "sys"=>
+  {"type"=>3,
+   "id"=>134841,
+   "message"=>0.0952,
+   "country"=>"DE",
+   "sunrise"=>1423809725,
+   "sunset"=>1423844776},
+ "weather"=>
+  [{"id"=>800, "main"=>"Clear", "description"=>"Sky is Clear", "icon"=>"01d"}],
+ "base"=>"cmc stations",
+ "main"=>
+  {"temp"=>274.22,
+   "humidity"=>99,
+   "pressure"=>1016.4,
+   "temp_min"=>273.15,
+   "temp_max"=>275.65},
+ "wind"=>{"speed"=>3.48, "deg"=>158.504},
+ "clouds"=>{"all"=>0},
+ "dt"=>1423829244,
+ "id"=>2911298,
+ "name"=>"Hamburg",
+ "cod"=>200}
+{"coord"=>{"lon"=>10, "lat"=>53.55},
+ "sys"=>
+  {"type"=>3,
+   "id"=>134841,
+   "message"=>0.0038,
+   "country"=>"DE",
+   "sunrise"=>1423809725,
+   "sunset"=>1423844776},
+ "weather"=>
+  [{"id"=>800, "main"=>"Clear", "description"=>"Sky is Clear", "icon"=>"01d"}],
+ "base"=>"cmc stations",
+ "main"=>
+  {"temp"=>274.26,
+   "humidity"=>99,
+   "pressure"=>1016.3,
+   "temp_min"=>273.15,
+   "temp_max"=>275.75},
+ "wind"=>{"speed"=>3.48, "deg"=>158.504},
+ "clouds"=>{"all"=>0},
+ "dt"=>1423829964,
+ "id"=>2911298,
+ "name"=>"Hamburg",
+ "cod"=>200}
